@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104509962487",
+    "project_id": "hallo-v1",
+    "storage_bucket": "hallo-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104509962487:android:331723dadb8eec4ada3bf2",
+        "android_client_info": {
+          "package_name": "com.example.sayhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104509962487-g830u6lpphravigm8289c554k69o09c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPsFVBkmn-IMhjDtIMrJhZFJAMm18xZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104509962487-g830u6lpphravigm8289c554k69o09c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
